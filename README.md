@@ -10,6 +10,6 @@ the original charting solution of Quandl.
 
 ## Demos:
 
-* [HighCharts Fruits](ensheng/index.html)
-* [HighCharts AAPL](highCharts/index.html)
+* [HighCharts Fruits](https://cdn.rawgit.com/mgajda/tldr-data-vis/master/ensheng/index.html)
+* [HighCharts AAPL](https://cdn.rawgit.com/mgajda/tldr-data-vis/master/highCharts/index.html)
 
