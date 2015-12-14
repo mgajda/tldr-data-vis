@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2015-12-11",
+    "type": "Client",
+    "version": "2.0"
+  },
+  {
+    "date": "1996-02-28",
+    "type": "Client",
+    "version": "2.1"
+  },
+  {
+    "date": "1995-09-28",
+    "type": "Server",
+    "version": "3.5"
+  },
+  {
+    "date": "1990-08-21",
+    "type": "Client",
+    "version": "2.2"
+  }
+]
