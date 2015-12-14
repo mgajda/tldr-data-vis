@@ -9,3 +9,9 @@
 Not a good fit:
 * [Gephi](http://gephi.org) - not a front-end
 
+From audience:
+* [Flot](http://www.flotcharts.org/)
+* [Plotly](https://plot.ly/)
+* [ChartJS](http://www.chartjs.org/)
+* [Chartist](https://gionkunz.github.io/chartist-js/)
+
