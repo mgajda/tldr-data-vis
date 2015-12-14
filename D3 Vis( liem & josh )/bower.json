@@ -1,0 +1,18 @@
+{
+  "name": "ensheng",
+  "homepage": "https://github.com/mgajda/tldr-data-vis",
+  "authors": [
+    "E S Lim <public@eatsleeplim.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
